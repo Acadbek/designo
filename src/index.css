@@ -1,0 +1,9 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "./components.css";
+@tailwind utilities;
+
+.main-container {
+    max-width: 1111px;
+    margin: 0 auto;
+}
